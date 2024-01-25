@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "cbt-healthcity",
+    "cbt-prod": "counsellingservices-huk-prod",
+    "cbt-staging": "cbt-healthcity"
+  }
+}
